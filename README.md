@@ -1,5 +1,5 @@
 # JavaScript_FCC_Projects
 Repositorio para guardar los proyectos hechos en el curso de Free Code Camp de JavaScript Algorithms and Data Structures.
 
->[IMPORTANT]
+>[!IMPORTANT]
 >Enlace al curso: [Curso](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)

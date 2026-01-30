@@ -9,7 +9,7 @@
  */
 
 function uniteUnique(...arrays) {
-  let sortedArray = [];
+  const sortedArray = [];
 
   for (const array of arrays) {
     for (const element of array) {
@@ -23,3 +23,4 @@ function uniteUnique(...arrays) {
 }
 
 console.log(uniteUnique([1, 3, 2, 3], [5, 2, 1, 4], [2, 1]));
+
